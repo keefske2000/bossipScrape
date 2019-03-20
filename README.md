@@ -1,6 +1,6 @@
 # bossipScrape
 
-![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/homePage.jpg =650x650)
+![Image of App](https://enigmatic-ridge-62117.herokuapp.com/)
 
 **Tools used**
 
