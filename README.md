@@ -1,5 +1,9 @@
 # bossipScrape Application 
 
+# Tools Used
+
+**JavaScript, Node.js, NPM packages(express, express-handlebars, mongoose, cheerio, axios, request, body-parser), MongoLab, Heroku**
+
 
 # How this application Functions
 
@@ -8,7 +12,7 @@
 
 ![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/homePage.jpg)
 
-**Tools used**
+
 
 ![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/savedArticles.jpg)
 
@@ -17,9 +21,6 @@
 
 
 ![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/newNote.jpg)
-
-
-![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/savedButton.jpg)
 
 
 ![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/mongoLab.jpg)
