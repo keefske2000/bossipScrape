@@ -30,4 +30,4 @@ Data of this application is stored in MongoDB mlab including ID for article bein
 
 ![Image of App](https://github.com/keefske2000/bossipScrape/blob/master/public/img/mongoLab.jpg)
 
-**Hope you enjoy this application and the Bossip Gossip stories......** https://enigmatic-ridge-62117.herokuapp.com/
+**Hope you enjoy this application and the Bossip Gossip stories......Click link to try it out** https://enigmatic-ridge-62117.herokuapp.com/
